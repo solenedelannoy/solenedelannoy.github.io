@@ -9,3 +9,11 @@
 "Parmentier":
   - firstname: ["Axel", "Axel Parmentier"]
     url: https://cermics.enpc.fr/~parmenta/
+
+"Jungel":
+  - firstname: ["Kai", "Kai Jungel"]
+    url: https://www.ot.mgt.tum.de/osm/team/kai-jungel/
+
+"Klein":
+  - firstname: ["Patrick", "Patrick Klein"]
+    url: https://www.ot.mgt.tum.de/osm/team/patrick-klein/
