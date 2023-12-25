@@ -2,18 +2,23 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: My research contributions
-years: [2022]
+description:
 nav: true
-nav_order: 3
+nav_order: 1
 ---
 <!-- _pages/publications.md -->
+<div class="publications">
+
+<h2>Papers</h2>
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
+</div>
 
 <div class="publications">
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
+<h2>Conference talks</h2>
+
+{% bibliography -f talks %}
 
 </div>

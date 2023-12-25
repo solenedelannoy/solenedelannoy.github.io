@@ -1,27 +1,22 @@
 ---
 layout: about
-title: Home
+title: About
 permalink: /
-subtitle: PhD student in Operations Research and Machine Learning
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # address: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a second year PhD student at [CERMICS](https://cermics-lab.enpc.fr/) under the supervision of [Axel Parmentier](https://cermics.enpc.fr/~parmenta/), in collaboration with Air France.
 
-<!-- The objective of my thesis is to apply methods at the frontier of **Operations Research** and **Machine Learning** to propose efficient algorithms for the aircraft routing and crew pairing problem, taking into account uncertainties such as delay propagation. -->
+I am a second year PhD student at [CERMICS](https://cermics-lab.enpc.fr/) under the supervision of [Axel Parmentier](https://cermics.enpc.fr/~parmenta/), and industrial collaboration with Air France.
 
 <h5>Research interests:</h5>
 - Combinatorial optimization/Operations Research
 - Machine learning/Reinforcement learning
-- Airline operations
