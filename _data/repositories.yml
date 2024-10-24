@@ -1,9 +1,5 @@
 github_users:
-  - BatyLeo
+
 
 github_repos:
-  - axelparmentier/InferOpt.jl
-  - BatyLeo/ConstrainedShortestPaths.jl
-  - BatyLeo/StochasticVehicleScheduling.jl
-  - axelparmentier/MinimumWeightTwoStageSpanningTree.jl
-  - BatyLeo/batyleo.github.io
+
