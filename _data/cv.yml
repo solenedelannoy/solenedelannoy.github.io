@@ -1,56 +1,50 @@
 - title: Experience
   type: time_table
   contents:
-    - title: PhD
-      institution: CERMICS, École des Ponts
-      year: 2022-now
-      description: Operations Research and Machine Learning to create resilient rotations for an airline 
-    - title: Internship at SNCF
-      year: Apr-Sept 2021
-      description: Real-time railway replanning, with Operations Research and Machine Learning hybrid methods.
-    - title: Internship at Neural Concept, Lausanne
-      year: Feb-Jul 2020
-      description: Deep learning and transfer learning for CAD/CAE.
-    - title: Internship at CERMICS, École des Ponts
-      year: Jun-Dec 2019
-      description: Optimization of cabin configuration for Air France aircrafts.
+    - title: Climate/Energy consultant
+      institution: EY - la Défense
+      year: 2023-2024
+      description: 
+    - title: Internship at King's college, London
+      year: Mar-Sept 2023
+      description: Optimal operation and valuation of electricity storages
+    - title: Internship at INRIA, Paris
+      year: Apr-Jul 2022
+      description: Designing call centers with two levels of service
 
 - title: Education
   type: time_table
   contents:
     - title: Master's degree
       institution: Conservatoire National des Arts et Métiers (CNAM), Paris
-      year: 2020-2021
+      year: 2022-2023
       description:
         - Master Parisien de Recherche Opérationnelle (MPRO)
         - Operations Research
     - title: Engineering degree
-      institution: École des Ponts, Champs-sur-Marne
-      year: 2017-2021
-      description: Maths and computer science engineering
+      institution: École Polytechnique, Palaiseai
+      year: 2019-2023
+      description: Mathematics
     - title: Scientific preparatory classes (MPSI-MP)
-      institution: Lycée Ste-Geneviève, Versailles
-      year: 2015-2017
+      institution: Lycée Henri IV, Paris
+      year: 2017-2019
       description:
-    - title: Bilingual French-Italian high-school
-      institution: Lycée des Pontonniers, Strasbourg
-      year: 2012-2015
 
-- title: Awards
-  type: time_table
-  contents:
-    - title: Finalist of best student paper, ROADEF 2023
-      #institution: ROADEF 2023
-      year: February 2023
-      description: https://www.roadef.org/roadef-prix-etudiant-master
-    - title: EURO-NeurIPS challenge 2022
-      institution: First prize, and Young talent prize
-      year: December 2022
-      description: https://euro-neurips-vrp-2022.challenges.ortec.com/
-    - title: Finalist of best master's report, ROADEF 2022
-      # institution: ROADEF 2022
-      year: February 2022
-      description: https://www.roadef.org/roadef-prix-etudiant-master
+#- title: Awards
+#  type: time_table
+#  contents:
+#    - title: Finalist of best student paper, ROADEF 2023
+#      #institution: ROADEF 2023
+#      year: February 2023
+#      description: https://www.roadef.org/roadef-prix-etudiant-master
+#    - title: EURO-NeurIPS challenge 2022
+#      institution: First prize, and Young talent prize
+#      year: December 2022
+#      description: https://euro-neurips-vrp-2022.challenges.ortec.com/
+#    - title: Finalist of best master's report, ROADEF 2022
+#      # institution: ROADEF 2022
+#      year: February 2022
+#      description: https://www.roadef.org/roadef-prix-etudiant-master
   
 # - title: Open Source Projects
 #   type: time_table
