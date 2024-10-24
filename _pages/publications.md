@@ -11,7 +11,7 @@ nav_order: 1
 
 <h2>Papers</h2>
 
-# {% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
 
@@ -19,6 +19,6 @@ nav_order: 1
 
 <h2>Conference talks</h2>
 
-# {% bibliography -f talks %}
+{% bibliography -f talks %}
 
 </div>
