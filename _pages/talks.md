@@ -11,7 +11,6 @@ nav_order: 5
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Présentations à venir</title>
   <style>
     body {
       font-family: Arial, sans-serif;
