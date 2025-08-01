@@ -50,7 +50,7 @@ nav_order: 5
     </li>
     <li>
       <span class="titre">Primal Dual Algorithm for Multistage Stochastic Optimization</span>
-      <span class="details">EURO – juin 2025</span>
+      <span class="details">ICSP – August 2025</span>
     </li>
   </ol>
 
