@@ -16,9 +16,3 @@ nav_order: 1
 </div>
 
 <div class="publications">
-
-<h2>Conference talks</h2>
-
-{% bibliography -f talks %}
-
-</div>
