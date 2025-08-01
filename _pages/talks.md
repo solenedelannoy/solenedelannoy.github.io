@@ -8,7 +8,6 @@ nav: true
 nav_order: 5
 ---
 
-<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <style>
