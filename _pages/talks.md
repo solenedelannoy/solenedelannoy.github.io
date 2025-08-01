@@ -39,8 +39,6 @@ nav_order: 5
 </head>
 <body>
 
-  <h2>Présentations à venir</h2>
-
   <ol>
     <li>
       <span class="titre">Maintenance prédictive des stations de raccordement des éoliennes en mer</span>
