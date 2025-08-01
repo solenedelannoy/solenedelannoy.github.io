@@ -7,10 +7,55 @@ years: [2023, 2022]
 nav: true
 nav_order: 5
 ---
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Présentations à venir</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
 
-<ol>
-  <li>**Maintenance prédictive des stations de raccordement des
-éoliennes en mer** - ROADEF - February 2025 </li>
-  <li>**Estimating Maintenance Costs of Offshore Electrical Substations** - Euro - June 2025 </li>
-  <li> **Primal Dual Algorithm for Multistage Stochastic Optimization** - Euro - June 2025</li>
-</ol>
+    ol {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 15px;
+      line-height: 1.5;
+    }
+
+    .titre {
+      font-weight: bold;
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .details {
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Présentations à venir</h2>
+
+  <ol>
+    <li>
+      <span class="titre">Maintenance prédictive des stations de raccordement des éoliennes en mer</span>
+      <span class="details">ROADEF – février 2025</span>
+    </li>
+    <li>
+      <span class="titre">Estimating Maintenance Costs of Offshore Electrical Substations</span>
+      <span class="details">EURO – juin 2025</span>
+    </li>
+    <li>
+      <span class="titre">Primal Dual Algorithm for Multistage Stochastic Optimization</span>
+      <span class="details">EURO – juin 2025</span>
+    </li>
+  </ol>
+
+</body>
+</html>
