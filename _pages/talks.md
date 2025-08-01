@@ -7,7 +7,7 @@ years: [2023, 2022]
 nav: true
 nav_order: 5
 ---
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
