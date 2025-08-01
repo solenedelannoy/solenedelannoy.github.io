@@ -2,15 +2,15 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: Conferences
+description: 
 years: [2023, 2022]
 nav: true
 nav_order: 5
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
+<ol>
+  <li>**Maintenance prédictive des stations de raccordement des
+éoliennes en mer** - ROADEF - February 2025 </li>
+  <li>**Estimating Maintenance Costs of Offshore Electrical Substations** - Euro - June 2025 </li>
+  <li> **Primal Dual Algorithm for Multistage Stochastic Optimization** - Euro - June 2025</li>
+</ol>
