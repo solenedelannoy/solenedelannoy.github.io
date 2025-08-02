@@ -1,1 +1,3 @@
-My [website](https://batyleo.github.io/).
+- Pour modfier le contenu des pages, aller dans _pages, modifier et commit
+- Pour modifier le contenu de la page cv, aller dans _data et modifier cv.yml
+- On peut cacher une page en "commentant" l'entête et en la mettant vide
