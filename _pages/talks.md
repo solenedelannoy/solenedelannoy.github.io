@@ -45,15 +45,21 @@ nav_order: 5
     </li>
     <p>
     <a href="/assets/pdf/slides_ROADEF.pdf" target="_blank">slides ROADEF 2025</a>
-    </p>
+  </p>
     <li>
       <span class="titre">Estimating Maintenance Costs of Offshore Electrical Substations</span>
       <span class="details">EURO – juin 2025</span>
     </li>
+    <p>
+    <a href="/assets/pdf/slides_euro.pdf" target="_blank">slides EURO 2025</a>
+    </p>
     <li>
       <span class="titre">Primal Dual Algorithm for Multistage Stochastic Optimization</span>
       <span class="details">ICSP – August 2025</span>
     </li>
+    <p>
+    <a href="/assets/pdf/slides_MD_multistage.pdf" target="_blank">slides ICSP 2025</a>
+    </p>
   </ol>
 
 </body>
