@@ -43,6 +43,9 @@ nav_order: 5
       <span class="titre">Maintenance prédictive des stations de raccordement des éoliennes en mer</span>
       <span class="details">ROADEF – February 2025</span>
     </li>
+    <p>
+    <a href="assets/pdf/slides_ROADEF.pdf" target="_blank">slides ROADEF 2025</a>
+    </p>
     <li>
       <span class="titre">Estimating Maintenance Costs of Offshore Electrical Substations</span>
       <span class="details">EURO – juin 2025</span>
