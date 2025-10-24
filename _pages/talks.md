@@ -60,6 +60,16 @@ nav_order: 5
     <p>
     <a href="/assets/pdf/slides_MD_multistage.pdf" target="_blank">slides ICSP 2025</a>
     </p>
+    <li>
+      <span class="titre"></span>Estimating maintennace costs of offshore electrical substations
+      <span class="details">International workshop on explainability and interpretability in optimization – September 2025</span>
+    </li>
+    </p>
+    <li>
+      <span class="titre"></span>Estimating maintennace costs of offshore electrical substations
+      <span class="details">YOUNG EURO Online Seminar Series on Operational Research and Machine 
+Learning – October 2025</span>
+    </li>
   </ol>
 
 </body>
