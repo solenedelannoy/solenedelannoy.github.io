@@ -65,7 +65,7 @@ nav_order: 5
       <span class="details">International workshop on explainability and interpretability in optimization – September 2025</span>
     </li>
     <li>
-      <span class="titre"></span>Estimating maintennace costs of offshore electrical substations</span>
+      <span class="titre">Estimating maintennace costs of offshore electrical substations</span>
       <span class="details">YOUNG EURO Online Seminar Series on Operational Research and Machine 
 Learning – October 2025</span>
     </li>
