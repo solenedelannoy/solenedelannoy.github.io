@@ -45,9 +45,9 @@ nav_order: 4
     </li>
 
     <li>
-      <span class="titre">Recherche Opérationnelle</span>
-      <span class="details">Ecole Nationale des Ponts et Chaussées – Sep 2025 to Jan 2026</span>
-      <span class="details">Second-year engineering students --- master 1</span>
+      <div class="titre">Recherche Opérationnelle</div>
+      <div class="details">Ecole Nationale des Ponts et Chaussées – Sep 2025 to Jan 2026</div>
+      <div class="details">Second-year engineering students --- master 1</div>
     </li>
   </ol>
 
