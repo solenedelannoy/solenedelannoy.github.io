@@ -39,9 +39,9 @@ nav_order: 4
 
   <ol>
     <li>
-      <span class="titre">Introduction to optimization</span>
-      <span class="details">Ecole Nationale des Ponts et Chaussées – Sep to Nov 2025</span>
-      <span class="details">First-year engineering students --- bachelor 3</span>
+      <div class="titre">Introduction to optimization</div>
+  <div class="details">Ecole Nationale des Ponts et Chaussées – Sep to Nov 2025</div>
+  <div class="details">First-year engineering students — bachelor 3</div>
     </li>
 
     <li>
