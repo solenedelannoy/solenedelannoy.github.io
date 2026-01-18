@@ -11,6 +11,17 @@ nav_order: 1
 
 <h2>Papers</h2>
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
 </div>
+
+  <ol>
+    <li>
+      <span class="titre">Estimating Maintenance Cost of Offshore Substations under Uncertainty: a Markovian Approach</span>
+      <span class="details">Solène Delannoy-Pavy, Vincent Leclère, Axel Parmentier, Cyrille Vessaire and Manuel Ruiz</span>
+      <span class="details">preprint – October 2025</span>
+    </li>
+    <p>
+    <a href="/assets/pdf/PSCC_article.pdf" target="_blank">link</a>
+  </p>
+  </ol>
+
+</body>
