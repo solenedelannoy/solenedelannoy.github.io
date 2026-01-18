@@ -43,16 +43,10 @@ nav_order: 5
       <span class="titre">Maintenance prédictive des stations de raccordement des éoliennes en mer</span>
       <span class="details">ROADEF – February 2025</span>
     </li>
-    <p>
-    <a href="/assets/pdf/slides_ROADEF.pdf" target="_blank">slides ROADEF 2025</a>
-  </p>
     <li>
       <span class="titre">Estimating Maintenance Costs of Offshore Electrical Substations</span>
       <span class="details">EURO – juin 2025</span>
     </li>
-    <p>
-    <a href="/assets/pdf/slides_euro.pdf" target="_blank">slides EURO 2025</a>
-    </p>
     <li>
       <span class="titre">Primal Dual Algorithm for Multistage Stochastic Optimization</span>
       <span class="details">ICSP – August 2025</span>
@@ -69,6 +63,13 @@ nav_order: 5
       <span class="details">YOUNG EURO Online Seminar Series on Operational Research and Machine 
 Learning – October 2025</span>
     </li>
+        <li>
+      <span class="titre">Estimating maintennace costs of offshore electrical substations</span>
+      <span class="details">PGMO days – November 2025</span>
+    </li>
+        <p>
+    <a href="/assets/pdf/PGMO.pdf" target="_blank">slides EURO 2025</a>
+    </p>
   </ol>
 
 </body>
