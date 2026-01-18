@@ -68,7 +68,7 @@ Learning – October 2025</span>
       <span class="details">PGMO days – November 2025</span>
     </li>
         <p>
-    <a href="/assets/pdf/PGMO.pdf" target="_blank">slides EURO 2025</a>
+    <a href="/assets/pdf/PGMO.pdf" target="_blank">slides PGMO 2025</a>
     </p>
   </ol>
 
