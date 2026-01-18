@@ -20,7 +20,7 @@ nav_order: 1
       <span class="details">preprint – October 2025</span>
     </li>
     <p>
-    <a href="/assets/pdf/PSCC_article.pdf" target="_blank">link</a>
+    <a href="/assets/pdf/PSCC_2026.pdf" target="_blank">link</a>
   </p>
   </ol>
 
