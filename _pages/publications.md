@@ -38,19 +38,22 @@ nav_order: 1
 <body>
 
   <ol>
-    <li>
-      <div class="titre">Introduction to optimization</div>
-  <div class="details">Ecole Nationale des Ponts et Chaussées – Sep to Nov 2025</div>
-  <div class="details">First-year engineering students — bachelor 3</div>
-    </li>
 
     <li>
       <div class="titre">Estimating Maintenance Cost of Offshore Substations under Uncertainty:
       a Markovian Approach</div>
       <div class="details">Solène Delannoy-Pavy, Vincent Leclère, Axel Parmentier,
       Cyrille Vessaire and Manuel Ruiz</div>
-      <div class="details"><a href="/assets/pdf/PSCC_2026.pdf" target="_blank">Link</a></div>
+      <div class="details">Preprint - October 2025 <a href="/assets/pdf/PSCC_2026.pdf" target="_blank">Link</a></div>
     </li>
+
+        <li>
+      <div class="titre">Decision Focused Scenario Generation for Contextual
+Two-Stage Stochastic Linear Programming</div>
+  <div class="details">Jonathan Hornewall, Solène Delannoy-Pavy, Tito Homem-de-Mello and Vincent Leclère</div>
+  <div class="details">2025 NeurIPS MLxOR Workshop <a href="/assets/pdf/PBSG.pdf" target="_blank">Link</a></div>
+    </li>
+    
   </ol>
 
 </body>
