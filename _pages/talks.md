@@ -67,8 +67,12 @@ Learning – October 2025</span>
       <span class="titre">Estimating maintennace costs of offshore electrical substations</span>
       <span class="details">PGMO days – November 2025</span>
     </li>
+        <li>
+      <span class="titre">Estimating maintennace costs of offshore electrical substations</span>
+      <span class="details">ROADEF – February 2026</span>
+    </li>
         <p>
-    <a href="/assets/pdf/PGMO.pdf" target="_blank">slides PGMO 2025</a>
+    <a href="/assets/pdf/ROADEF26.pdf" target="_blank">ROADEF February 2026</a>
     </p>
   </ol>
 
