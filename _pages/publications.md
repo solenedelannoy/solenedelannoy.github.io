@@ -25,8 +25,6 @@ nav_order: 1
   }
 </style>
 
-<body>
-
   <ol>
 
     <li>
@@ -45,8 +43,6 @@ Two-Stage Stochastic Linear Programming</div>
     </li>
     
   </ol>
-
-</body>
 
 
 
