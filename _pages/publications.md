@@ -6,35 +6,25 @@ description:
 nav: true
 nav_order: 1
 ---
-
-<head>
-  <meta charset="UTF-8">
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-    }
+  h2 {
+    margin-top: 2em;
+  }
 
-    ol {
-      padding-left: 20px;
-    }
+  ol {
+    padding-left: 20px;
+  }
 
-    li {
-      margin-bottom: 15px;
-      line-height: 1.5;
-    }
+  li {
+    margin-bottom: 12px;
+    line-height: 1.5;
+  }
 
-    .titre {
-      font-weight: bold;
-      display: block;
-      margin-bottom: 5px;
-    }
+  .details {
+    color: #555;
+  }
+</style>
 
-    .details {
-      color: #555;
-    }
-  </style>
-</head>
 <body>
 
   <ol>
