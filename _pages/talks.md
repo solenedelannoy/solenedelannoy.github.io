@@ -54,17 +54,20 @@ nav_order: 5
   <li>
     <span class="details">IFORS – July 2026</span>
   </li>
+  <li>
+    <span class="details">PGMO – November 2026</span>
+  </li>
 </ol>
 
 <p>
-  <a href="/assets/pdf/IFORS_2026.pdf" target="_blank">Slides (IFORS 2026)</a>
+  <a href="/assets/pdf/slides_PGMO2026.pdf" target="_blank">Slides (PGMO 2026)</a>
 </p>
 <p>
   <a href="/assets/pdf/young_researcher_seminar.pdf" target="_blank">Slides (CERMICS young researchers seminar 2026)</a>
 </p>
 
 
-## COAML for combinatorial MDPs
+## Decision Focused Learning for combinatorial MDPs
 
 <ol>
   <li>
@@ -79,7 +82,7 @@ nav_order: 5
   <a href="/assets/pdf/slides_MD_multistage.pdf" target="_blank">Slides (ICSP 2025)</a>
 </p>
 
-## Robust COAML
+## Robust Decision Focused Learning
 
 <ol>
   <li>
