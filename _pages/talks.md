@@ -60,7 +60,7 @@ nav_order: 5
 </ol>
 
 <p>
-  <a href="/assets/pdf/slides_PGMO2026.pdf" target="_blank">Slides (PGMO 2026)</a>
+  <a href="/assets/pdf/slides_PGMO26.pdf" target="_blank">Slides (PGMO 2026)</a>
 </p>
 <p>
   <a href="/assets/pdf/young_researcher_seminar.pdf" target="_blank">Slides (CERMICS young researchers seminar 2026)</a>
