@@ -55,12 +55,12 @@ nav_order: 5
     <span class="details">IFORS – July 2026</span>
   </li>
   <li>
-    <span class="details">PGMO – November 2026</span>
+    <span class="details">PGMO Days – November 2026</span>
   </li>
 </ol>
 
 <p>
-  <a href="/assets/pdf/slides_PGMO26.pdf" target="_blank">Slides (PGMO 2026)</a>
+  <a href="/assets/pdf/PGMO_26.pdf" target="_blank">Slides (PGMO 2026)</a>
 </p>
 <p>
   <a href="/assets/pdf/young_researcher_seminar.pdf" target="_blank">Slides (CERMICS young researchers seminar 2026)</a>
